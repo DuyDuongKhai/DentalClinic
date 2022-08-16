@@ -17,7 +17,7 @@
 2. Make an appointment
 3. View service
 4. View service price
-5. VView profile 
+5. View profile 
 6. Send feedback
 - employee
 1. Manage Service
